@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">@string/starships_title</string>
+    <string name="starships_title">Nyuyu Starships</string>
+    <string name="films">Films: </string>
+    <string name="cost">Cost: %1$s</string>
+    <string name="progress_init">Setting things up</string>
+    <string name="progress_fetching">Loading %1$d Starships</string>
+    <string name="progress_filter">Finding the best 15</string>
+    <string name="progress_done">All ready</string>
+
+</resources>
